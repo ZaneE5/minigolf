@@ -1,1 +1,14 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/437/Golf Assets/Textures/colormap.png","C:/437/Minigolf/Content/bin/DesktopGL/Content/../../Golf Assets/Textures/colormap_0.xnb","TextureProcessor","Texture2DContent",8706,174897,0.2550107
+"C:/437/Minigolf/Content/../../Golf Assets/track1.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/track1.xnb","ModelProcessor","ModelContent",48060,28512,0.1570564
+"C:/437/Minigolf/Content/Audio/collision.wav","C:/437/Minigolf/Content/bin/DesktopGL/Content/Audio/collision.xnb","SoundEffectProcessor","SoundEffectContent",33728,23641,0.5203086
+"C:/437/Minigolf/Content/Audio/hole.wav","C:/437/Minigolf/Content/bin/DesktopGL/Content/Audio/hole.xnb","SoundEffectProcessor","SoundEffectContent",384848,384121,0.1982062
+"C:/437/Minigolf/Content/Audio/putt.wav","C:/437/Minigolf/Content/bin/DesktopGL/Content/Audio/putt.xnb","SoundEffectProcessor","SoundEffectContent",49140,38353,0.1841914
+"C:/437/Minigolf/Content/File.spritefont","C:/437/Minigolf/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.253655
+"C:/437/Minigolf/Content/Models/ball-blue.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/ball-blue.xnb","ModelProcessor","ModelContent",56400,24087,0.4427186
+"C:/437/Minigolf/Content/Models/ball-red.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/ball-red.xnb","ModelProcessor","ModelContent",56400,24085,0.2197121
+"C:/437/Minigolf/Content/Models/hole-square.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/hole-square.xnb","ModelProcessor","ModelContent",26624,3611,0.1744712
+"C:/437/Minigolf/Content/Models/Textures/colormap.png","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/Textures/colormap_0.xnb","TextureProcessor","Texture2DContent",8706,174897,0.331963
+"C:/437/Minigolf/Content/Models/track1.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/track1.xnb","ModelProcessor","ModelContent",48060,28407,0.0108769
+"C:/437/Minigolf/Content/Models/track2.fbx","C:/437/Minigolf/Content/bin/DesktopGL/Content/Models/track2.xnb","ModelProcessor","ModelContent",44476,21771,0.3174917
+"C:/437/Minigolf/Content/Sprites/ball-red.png","C:/437/Minigolf/Content/bin/DesktopGL/Content/Sprites/ball-red.xnb","TextureProcessor","Texture2DContent",1426,16469,0.127436

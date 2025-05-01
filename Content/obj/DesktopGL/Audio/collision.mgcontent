@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/437/Minigolf/Content/Audio/collision.wav</SourceFile>
+  <SourceTime>2025-04-30T14:51:08.9385953-05:00</SourceTime>
+  <DestFile>c:/437/Minigolf/Content/bin/DesktopGL/Audio/collision.xnb</DestFile>
+  <DestTime>2025-05-01T13:41:06.7022324-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T12:05:56-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T12:05:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

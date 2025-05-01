@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/437/Minigolf/Content/../../Golf Assets/track1.fbx</File>
+    <File>C:/437/Minigolf/Content/Audio/collision.wav</File>
+    <File>C:/437/Minigolf/Content/Audio/hole.wav</File>
+    <File>C:/437/Minigolf/Content/Audio/putt.wav</File>
+    <File>C:/437/Minigolf/Content/File.spritefont</File>
+    <File>C:/437/Minigolf/Content/Models/ball-blue.fbx</File>
+    <File>C:/437/Minigolf/Content/Models/ball-red.fbx</File>
+    <File>C:/437/Minigolf/Content/Models/hole-square.fbx</File>
+    <File>C:/437/Minigolf/Content/Models/track1.fbx</File>
+    <File>C:/437/Minigolf/Content/Models/track2.fbx</File>
+    <File>C:/437/Minigolf/Content/Sprites/ball-red.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Models/track1.fbx</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

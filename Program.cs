@@ -1,2 +1,2 @@
-﻿using var game = new minigolf.Game1();
+﻿using var game = new minigolf.Minigolf();
 game.Run();

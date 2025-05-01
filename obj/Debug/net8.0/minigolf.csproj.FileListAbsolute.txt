@@ -26,3 +26,14 @@ C:\437\Minigolf\obj\Debug\net8.0\refint\minigolf.dll
 C:\437\Minigolf\obj\Debug\net8.0\minigolf.pdb
 C:\437\Minigolf\obj\Debug\net8.0\minigolf.genruntimeconfig.cache
 C:\437\Minigolf\obj\Debug\net8.0\ref\minigolf.dll
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\ball-blue.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\Textures\colormap_0.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\hole-square.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\track1.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\File.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\track2.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Audio\collision.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Audio\hole.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Audio\putt.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Models\ball-red.xnb
+C:\437\Minigolf\bin\Debug\net8.0\Content\Sprites\ball-red.xnb
